@@ -19,7 +19,7 @@ This firmware initializes the ePaper panel, verifies hardware communication (`EE
 
 ```text
 ├── images/
-│   └── epaper-testing.jpg  # Hardware setup preview image
+│   └── 4.2_inch_Epaper_Testing.jpg  # Hardware setup preview image
 ├── src/
 │   ├── driver.h            # ePaper display pin definitions and driver configuration
 │   └── main.cpp            # Main application logic and button counter handling
