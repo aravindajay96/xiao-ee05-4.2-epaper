@@ -6,7 +6,7 @@ PlatformIO project for:
 - Display: 4.2-inch monochrome ePaper, 400 x 300, SSD1683
 - Buttons: Key1 = GPIO2, Key2 = GPIO3, Key3 = GPIO8 (active LOW)
 
-[4.2 inch Epaper Testing](.images/4.2%20inch%20Epaper%20Testing.jpg)
+[4.2 inch Epaper Testing](.images/4.2_inch_Epaper_Testing.jpg)
 
 ## Important library choice
 
