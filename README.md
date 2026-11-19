@@ -3,7 +3,7 @@
 A PlatformIO project for testing a **4.2-inch ($400 \times 300$) ePaper display** paired with the **Seeed Studio XIAO ePaper Driver Board** and a **XIAO ESP32-S3** (or compatible XIAO microcontroller).
 
 <p align="center">
-  <img src="images/epaper-testing.jpg" alt="Seeed Studio XIAO 4.2 inch ePaper Testing" width="500">
+  <img src="images/4.2_inch_Epaper_Testing.jpg" alt="Seeed Studio XIAO 4.2 inch ePaper Testing" width="500">
 </p>
 
 ## Overview
